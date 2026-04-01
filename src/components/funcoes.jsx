@@ -51,7 +51,7 @@ export default function ArrayPush() {
         </div>
       </div>
       <footer className="footer">
-        <p>Site feito por Juan T. Reis &copy; todos os direitos reservados</p>
+        <p>Site feito por Juan T. Reis e Leonardo Alves de Souza</p>
       </footer>
     </main>
 );
