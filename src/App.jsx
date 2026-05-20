@@ -96,7 +96,6 @@ export default function App() {
           aoSelecionar={setTipo}
         />
 
-        {/* Seletor de parcelas */}
         <select
           value={parcelas}
           onChange={(e) => setParcelas(Number(e.target.value))}
